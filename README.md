@@ -11,4 +11,7 @@
 
 ![demo](/demo.png)
 
-[Live demo](https://nguyenvanduydev001.github.io/responsive-navbar/)
+[Demo](https://nguyenvanduydev001.github.io/responsive-navbar/)
+
+[Live demo](https://responsive-navbar-drab-alpha.vercel.app/)
+
